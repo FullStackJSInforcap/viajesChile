@@ -14,3 +14,11 @@ svg{
 i{
     font-size: 1.5rem;
 }
+
+.altoImagenTarjeta{
+    height: 40%;
+}
+
+.coloFuenteBlanco{
+    color: #fff;
+}
